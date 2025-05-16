@@ -1,6 +1,16 @@
 {
-    "require": {
-        "phpoffice/phpspreadsheet": "^4.2",
-        "phpmailer/phpmailer": "^6.10"
+  "name": "tonpseudo/formutrack",
+  "description": "Application PHP pour la gestion de formulaires, avec export Excel et envoi de mails.",
+  "type": "project",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Ton Nom",
+      "email": "ton.email@example.com"
     }
+  ],
+  "require": {
+    "phpoffice/phpspreadsheet": "^4.2",
+    "phpmailer/phpmailer": "^6.10"
+  }
 }
