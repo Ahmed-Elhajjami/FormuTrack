@@ -9,8 +9,10 @@
       "email": "ton.email@example.com"
     }
   ],
-  "require": {
+  "require": 
+  {
     "phpoffice/phpspreadsheet": "^4.2",
     "phpmailer/phpmailer": "^6.10"
   }
+  
 }
